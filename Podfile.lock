@@ -1,0 +1,22 @@
+PODS:
+  - lottie-ios (3.4.2)
+  - SDWebImage (5.13.2):
+    - SDWebImage/Core (= 5.13.2)
+  - SDWebImage/Core (5.13.2)
+
+DEPENDENCIES:
+  - lottie-ios
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  lottie-ios: 6bbc53eef6957e4744a50321507015fba72d8ca6
+  SDWebImage: 72f86271a6f3139cc7e4a89220946489d4b9a866
+
+PODFILE CHECKSUM: 0f6388aa4ac47ba28459b072c063e59d3b1cdcb5
+
+COCOAPODS: 1.11.3
